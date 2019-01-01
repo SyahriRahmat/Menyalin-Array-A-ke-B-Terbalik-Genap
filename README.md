@@ -1,0 +1,1 @@
+# Menyalin-Array-A-ke-B-Terbalik-Genap
